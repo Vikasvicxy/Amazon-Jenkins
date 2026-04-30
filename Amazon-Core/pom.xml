@@ -91,7 +91,7 @@
                     <source>8</source>
                     <target>8</target>
                 </configuration>
-            </plugin>
+            </plugin> 
         </plugins>
     </build>
 </project>
